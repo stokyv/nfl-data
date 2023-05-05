@@ -2,13 +2,13 @@
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import os
 import json
 import requests
 from bs4 import BeautifulSoup as soup
 
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 
