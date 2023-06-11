@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import nfl
 
-st.markdown("# Main page 🎈")
+st.markdown("# Main page 1🎈")
 st.sidebar.markdown("# Main page 🎈")
 
 st.title("NFL DATA ANALYSIS")
